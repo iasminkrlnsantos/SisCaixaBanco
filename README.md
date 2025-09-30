@@ -1,10 +1,13 @@
 # SisCaixaBanco
-Documentação de Execução Local - SisCaixaBanco
-Pré-requisitos
-•	.NET 6 SDK
-•	SQL Server
-•	Editor recomendado: Visual Studio 2022 ou superior
-Passos para Configuração
+
+## 📌 Documentação de Execução Local
+
+### Pré-requisitos
+- .NET 6 SDK  
+- SQL Server  
+- Editor recomendado: Visual Studio 2022 ou superior  
+
+### Passos para Configuração
 1.	Clone o repositório
     git clone https://github.com/iasminkrlnsantos/SisCaixaBanco.git
 2.	Configure o banco de dados
