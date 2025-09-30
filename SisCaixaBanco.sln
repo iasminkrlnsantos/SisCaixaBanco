@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SisCaixaBanco", "SisCaixaBanco\SisCaixaBanco.csproj", "{648E2471-BF8E-4298-9B87-7513317336B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SisCaixaBanco.Tests", "SisCaixaBanco.Tests\SisCaixaBanco.Tests.csproj", "{F7C3016B-DABD-4AF8-9F39-AF9E4D74AB93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{648E2471-BF8E-4298-9B87-7513317336B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648E2471-BF8E-4298-9B87-7513317336B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648E2471-BF8E-4298-9B87-7513317336B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648E2471-BF8E-4298-9B87-7513317336B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C3016B-DABD-4AF8-9F39-AF9E4D74AB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C3016B-DABD-4AF8-9F39-AF9E4D74AB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C3016B-DABD-4AF8-9F39-AF9E4D74AB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C3016B-DABD-4AF8-9F39-AF9E4D74AB93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3876215-55C1-44B8-A5CA-C471FA1C7A18}
+	EndGlobalSection
+EndGlobal
